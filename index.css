@@ -1,0 +1,19 @@
+body{background-color: black; margin:0;
+    color:white; font-size:16px; font-family:Georgia, 'Times New Roman', Times, serif}
+
+header{height:100px; margin-top:none;}
+    #umd-header{background-color: rgb(227,25,51); height:40px; margin:auto;}
+        #umd-title{width: max-content; margin:auto; padding:10px;}
+        #umd-headera{color:white; font-size:14.5px; text-decoration: none; text-align:center;}
+    
+    nav{background-color:rgb(25,25,25); height:60px; width:auto;
+        color:white;}
+            #eit-header{width:max-content; margin-left:50px; padding:10px; float:left;}
+                #eit-header a{font-size:30px;}
+                #eit-headera{font-size:30px;}
+                #sdt-headera{color:silver; font-size: 28px;}
+            #navigation{width: max-content; float:right; margin-right: 125px; padding-top: 5px;}
+
+            nav ul{list-style: none; }
+            nav li{display:inline; padding:10px; color:silver}
+            nav a{font-size: 15px;}
